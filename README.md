@@ -1,2 +1,2 @@
-# Embeded-SPM32
-Task for microcontroller SPM32
+# Embeded-STM32
+Task for microcontroller STM32
