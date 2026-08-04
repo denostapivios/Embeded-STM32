@@ -1,2 +1,2 @@
-# Embeded-STM32
+# Поліцейська мигалка (STM32)
 Task for microcontroller STM32
