@@ -1,0 +1,4 @@
+../Core/Src/app.c:39:13:setLights	1
+../Core/Src/app.c:60:6:setup	1
+../Core/Src/app.c:73:6:loop	17
+../Core/Src/app.c:213:6:HAL_GPIO_EXTI_Callback	3
