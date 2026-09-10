@@ -1,0 +1,4 @@
+../Core/Src/app.c:66:6:setup	1
+../Core/Src/app.c:91:6:loop	3
+../Core/Src/app.c:151:17:sma_add	3
+../Core/Src/app.c:191:13:update_led	5
