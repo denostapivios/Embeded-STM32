@@ -1,0 +1,6 @@
+../Core/Src/app.c:19:17:Read_Potentiometer	16	static
+../Core/Src/app.c:32:17:ADC_To_PWM	16	static
+../Core/Src/app.c:37:13:Set_LED_PWM	16	static
+../Core/Src/app.c:42:13:Set_Motor_PWM	16	static
+../Core/Src/app.c:47:6:App_Init	8	static
+../Core/Src/app.c:59:6:App_Run	32	static
