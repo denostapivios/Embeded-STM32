@@ -1,0 +1,7 @@
+../Core/Src/app.c:66:13:buzzer_start	24	static
+../Core/Src/app.c:117:13:buzzer_stop	8	static
+../Core/Src/app.c:130:13:play_current_note	16	static
+../Core/Src/app.c:150:13:buzzer_update	8	static
+../Core/Src/app.c:174:6:app_init	8	static
+../Core/Src/app.c:199:6:app_process	8	static
+../Core/Src/app.c:214:6:HAL_TIM_PeriodElapsedCallback	16	static
