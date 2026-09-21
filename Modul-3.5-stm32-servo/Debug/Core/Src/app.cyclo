@@ -1,0 +1,7 @@
+../Core/Src/app.c:26:12:clamp_int	3
+../Core/Src/app.c:42:17:potentiometer_read	2
+../Core/Src/app.c:67:12:adc_to_pot_angle	1
+../Core/Src/app.c:80:12:pot_to_servo_angle	3
+../Core/Src/app.c:95:13:servo_set_angle	1
+../Core/Src/app.c:121:6:app_init	1
+../Core/Src/app.c:133:6:app_run	1
