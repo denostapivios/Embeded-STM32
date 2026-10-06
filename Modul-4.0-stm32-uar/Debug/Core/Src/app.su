@@ -1,0 +1,4 @@
+../Core/Src/app.c:26:6:APP_Init	8	static
+../Core/Src/app.c:48:6:APP_Loop	16	static
+../Core/Src/app.c:75:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/app.c:95:6:HAL_UART_RxCpltCallback	16	static
