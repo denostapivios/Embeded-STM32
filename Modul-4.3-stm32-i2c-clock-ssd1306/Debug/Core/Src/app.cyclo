@@ -1,0 +1,8 @@
+../Core/Src/app.c:11:16:bcdToDec	1
+../Core/Src/app.c:15:16:decToBcd	1
+../Core/Src/app.c:20:19:DS1307_GetTime	2
+../Core/Src/app.c:39:19:DS1307_SetTime	1
+../Core/Src/app.c:55:13:DS1307_InitCheck	3
+../Core/Src/app.c:76:13:USB_Log_Print	3
+../Core/Src/app.c:85:6:setup	2
+../Core/Src/app.c:101:6:loop	2
