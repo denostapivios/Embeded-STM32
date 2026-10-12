@@ -1,0 +1,4 @@
+../Core/Src/app.c:22:13:USB_Log_Print	24	static
+../Core/Src/app.c:48:16:BME280_TryInit	112	static
+../Core/Src/app.c:83:6:setup	8	static
+../Core/Src/app.c:105:6:loop	352	static

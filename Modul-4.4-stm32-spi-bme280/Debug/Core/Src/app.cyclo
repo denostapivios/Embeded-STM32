@@ -1,0 +1,4 @@
+../Core/Src/app.c:22:13:USB_Log_Print	4
+../Core/Src/app.c:48:16:BME280_TryInit	2
+../Core/Src/app.c:83:6:setup	2
+../Core/Src/app.c:105:6:loop	8

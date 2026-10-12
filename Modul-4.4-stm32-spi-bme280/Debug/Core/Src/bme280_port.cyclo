@@ -1,0 +1,7 @@
+../Core/Src/bme280_port.c:23:13:BME280_CS_Select	1
+../Core/Src/bme280_port.c:32:13:BME280_CS_Deselect	1
+../Core/Src/bme280_port.c:44:29:BME280_SPI_Read	5
+../Core/Src/bme280_port.c:83:29:BME280_SPI_Write	5
+../Core/Src/bme280_port.c:122:13:BME280_DelayUs	1
+../Core/Src/bme280_port.c:135:5:BME280_Port_Init	4
+../Core/Src/bme280_port.c:196:5:BME280_Port_Read	12
