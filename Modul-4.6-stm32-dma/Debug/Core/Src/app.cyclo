@@ -1,0 +1,4 @@
+../Core/Src/app.c:37:6:HAL_ADC_ConvCpltCallback	3
+../Core/Src/app.c:55:6:HAL_UART_TxCpltCallback	2
+../Core/Src/app.c:65:6:setup	2
+../Core/Src/app.c:113:6:loop	7

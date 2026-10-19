@@ -1,0 +1,4 @@
+../Core/Src/app.c:37:6:HAL_ADC_ConvCpltCallback	24	static
+../Core/Src/app.c:55:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/app.c:65:6:setup	24	static
+../Core/Src/app.c:113:6:loop	40	static,ignoring_inline_asm
