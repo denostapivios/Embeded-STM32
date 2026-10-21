@@ -1,0 +1,15 @@
+../Core/Src/app.c:43:13:USB_Log_Print	5
+../Core/Src/app.c:74:16:BME280_TryInit	2
+../Core/Src/app.c:97:13:BME280_HandleReadError	4
+../Core/Src/app.c:122:13:BME280_TryRecovery	4
+../Core/Src/app.c:149:13:Command_Read	3
+../Core/Src/app.c:175:13:Command_ShowTemperature	2
+../Core/Src/app.c:190:13:Command_ShowPressure	2
+../Core/Src/app.c:206:13:Command_ShowHumidity	2
+../Core/Src/app.c:221:13:Command_ShowHelp	1
+../Core/Src/app.c:233:13:ProcessCommand	13
+../Core/Src/app.c:289:6:App_USB_Receive	4
+../Core/Src/app.c:311:16:App_USB_GetByte	3
+../Core/Src/app.c:323:13:ProcessUSBInput	11
+../Core/Src/app.c:385:6:setup	2
+../Core/Src/app.c:406:6:loop	1

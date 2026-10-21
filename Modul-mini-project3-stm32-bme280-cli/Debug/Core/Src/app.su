@@ -1,0 +1,15 @@
+../Core/Src/app.c:43:13:USB_Log_Print	24	static
+../Core/Src/app.c:74:16:BME280_TryInit	112	static
+../Core/Src/app.c:97:13:BME280_HandleReadError	112	static
+../Core/Src/app.c:122:13:BME280_TryRecovery	16	static
+../Core/Src/app.c:149:13:Command_Read	48	static
+../Core/Src/app.c:175:13:Command_ShowTemperature	80	static
+../Core/Src/app.c:190:13:Command_ShowPressure	128	static
+../Core/Src/app.c:206:13:Command_ShowHumidity	80	static
+../Core/Src/app.c:221:13:Command_ShowHelp	8	static
+../Core/Src/app.c:233:13:ProcessCommand	32	static
+../Core/Src/app.c:289:6:App_USB_Receive	24	static
+../Core/Src/app.c:311:16:App_USB_GetByte	16	static
+../Core/Src/app.c:323:13:ProcessUSBInput	16	static
+../Core/Src/app.c:385:6:setup	8	static
+../Core/Src/app.c:406:6:loop	8	static
